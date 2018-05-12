@@ -1,0 +1,60 @@
+_repo: Souvenirs-de-la-duchesse-de-Dinopubli-s-par-sa-petite-fille-la-Comtesse-Jean-de-Castellane._25752
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Lamy, Etienne
+    alias: Lamy, Etienne Marie Victor
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '31552'
+    url: http://www.gutenberg.org/2009/agents/31552
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dino, Dorothée, duchesse de
+    aliases:
+    - Dorothea, Herzogin von Sagan
+    - Biron, Dorothea von
+    - De Dino, Dorothée, duchesse
+    - Sagan, Dorothée, princesse de
+    - Dorothea, Duchess of Sagan
+    - Courlande, Dorothée de, duchesse de Dino
+    - Dorothée, princesse de Courlande
+    - Talleyrand-Périgord, Dorothée von Biron, duchesse de
+    - Dino, Dorothee, duchesse de
+    birthdate: 1793
+    deathdate: 1862
+    gutenberg_agent_id: '31551'
+    url: http://www.gutenberg.org/2009/agents/31551
+    wikipedia: http://fr.wikipedia.org/wiki/Doroth%C3%A9e_de_Courlande
+  editor:
+    agent_name: Radziwill, Marie Dorothea Elisabeth de Castellane, Fürstin
+    aliases:
+    - Radziwill, Marie Dorothea Elisabeth de Castellane, Furstin
+    - Castellane, Marie Dorothea Elisabeth de, Fürstin
+    - De Castellane, Marie Dorothea Elisabeth, Fürstin
+    birthdate: 1840
+    deathdate: 1915
+    gutenberg_agent_id: '31550'
+    url: http://www.gutenberg.org/2009/agents/31550
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25752'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcc 'DC'
+- !lcsh 'Autobiographies'
+- !lcsh 'Dino, Dorothée, duchesse de, 1793-1862'
+title: 'Souvenirs de la duchesse de Dino
+
+  publiés par sa petite fille, la Comtesse Jean de Castellane.'
+url: http://www.gutenberg.org/ebooks/25752
